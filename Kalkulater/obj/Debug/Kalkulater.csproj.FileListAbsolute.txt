@@ -1,0 +1,11 @@
+C:\Users\ajwpc\source\repos\Kalkulater\Kalkulater\bin\Debug\Kalkulater.exe.config
+C:\Users\ajwpc\source\repos\Kalkulater\Kalkulater\bin\Debug\Kalkulater.exe
+C:\Users\ajwpc\source\repos\Kalkulater\Kalkulater\bin\Debug\Kalkulater.pdb
+C:\Users\ajwpc\source\repos\Kalkulater\Kalkulater\obj\Debug\Kalkulater.csproj.AssemblyReference.cache
+C:\Users\ajwpc\source\repos\Kalkulater\Kalkulater\obj\Debug\Kalkulater.csproj.SuggestedBindingRedirects.cache
+C:\Users\ajwpc\source\repos\Kalkulater\Kalkulater\obj\Debug\Kalkulater.Form1.resources
+C:\Users\ajwpc\source\repos\Kalkulater\Kalkulater\obj\Debug\Kalkulater.Properties.Resources.resources
+C:\Users\ajwpc\source\repos\Kalkulater\Kalkulater\obj\Debug\Kalkulater.csproj.GenerateResource.cache
+C:\Users\ajwpc\source\repos\Kalkulater\Kalkulater\obj\Debug\Kalkulater.csproj.CoreCompileInputs.cache
+C:\Users\ajwpc\source\repos\Kalkulater\Kalkulater\obj\Debug\Kalkulater.exe
+C:\Users\ajwpc\source\repos\Kalkulater\Kalkulater\obj\Debug\Kalkulater.pdb
